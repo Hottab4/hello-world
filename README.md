@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Planeta Zhelezyaka!
+
+Eto Ptitsa Govorun. 
